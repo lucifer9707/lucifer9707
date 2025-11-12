@@ -10,6 +10,3 @@
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&layout=compact&theme=dark)](https://github.com/lucifer9707/github-readme-stats)
 
 </div>
-
-
-⭐️ From [lucifer9707](https://github.com/lucifer9707)
