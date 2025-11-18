@@ -43,7 +43,7 @@ I'm a passionate software developer dedicated to crafting efficient and scalable
 
 Here are some of the projects I'm most proud of:
 
-- **[Project One](https://github.com/lucifer9707/project-one)** | A brief, one-line description of what this project does and the tech stack used.
+- **[Project One](https://todo-appp-zeta.vercel.app/)** | A brief, one-line description of what this project does and the tech stack used.
 - **[Project Two](https://github.com/lucifer9707/project-two)** | Another cool project description. Mention the problem it solves.
 - **[Project Three](https://github.com/lucifer9707/project-three)** | A third project highlight to show the breadth of your skills.
 
