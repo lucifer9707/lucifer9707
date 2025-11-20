@@ -70,7 +70,7 @@ I'm always open to discussing technology, collaboration, and new opportunities.
 
   - 🌱 I’m currently learning: **Kubernetes and Advanced System Design**
   - 👯 I’m looking to collaborate on: **Open-source projects related to Developer Tools**
-  - 💬 Ask me about: **Java, Spring Boot, Backend Development, or Docker**
+  - 💬 Ask me about: **Java, SpringBoot, Backend Development, or Docker**
   - ⚡ Fun fact: I'm a huge fan of sci-fi movies and love to hike on weekends!
 
 </details>
