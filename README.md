@@ -1,95 +1,23 @@
-# 👋 Hi, I'm Arun Rawat
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ARUN RAWAT
+===================================================================================================================================
 
-**`Digital Craftsman (Developer/Problem Solver)`**
+Digital Craftsman (Developer/Problem Solver)
+--------------------------------------------
 
 I'm a passionate software developer dedicated to crafting efficient and scalable solutions. I thrive on turning complex problems into simple, beautiful designs in code. I'm always learning, building, and collaborating on interesting projects.
 
----
 
-### 🧰 Languages and Tools
+### Socials
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+<p align="left"> <a href="https://www.github.com/lucifer9707" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/lucifer9707" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lucifer9707?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-### 📊 GitHub Stats
+<a href="http://www.github.com/lucifer9707"><img src="https://github-readme-stats.vercel.app/api?username=lucifer9707&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucifer9707's GitHub stats" /></a>
 
-<div align="center">
-  
-  [![Arun's GitHub Streak](https://streak-stats.demolab.com?user=lucifer9707&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+<a href="http://www.github.com/lucifer9707"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer9707&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</div>
-
-<div align="center">
-  
-  [![Arun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&layout=compact&theme=dark&hide_border=true)](https://github.com/lucifer9707/github-readme-stats)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-Here are some of the projects I'm most proud of:
-
-- **[Project One](https://todo-appp-zeta.vercel.app/)** | A clean and responsive to-do list application designed for efficient task management..
-- **[Project Two](https://github.com/lucifer9707/project-two)** | Another cool project description. Mention the problem it solves.
-- **[Project Three](https://github.com/lucifer9707/project-three)** | A third project highlight to show the breadth of your skills.
-
-> Explore more of my work in the [Repositories](https://github.com/lucifer9707?tab=repositories).
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to discussing technology, collaboration, and new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunrawat9707/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/the_x_manARUN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pandit.arun.47/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arunrawat.vercel.app/)
-
----
-
-<details>
-  <summary><h3>👨‍💻 Arun's Coding Journey</h3></summary>
-  
-  [A more detailed, story-like section about your journey, what drives you, and your goals. For example:]
-
-  My journey into software development began with [a brief story - e.g., "a curiosity about how video games worked"]. Since then, I've immersed myself in the world of programming, starting with [Your First Language, e.g., Java] and expanding my skills to include [Mention a few key technologies].
-
-  - 🌱 I’m currently learning: **Kubernetes and Advanced System Design**
-  - 👯 I’m looking to collaborate on: **Open-source projects related to Developer Tools**
-  - 💬 Ask me about: **Java, SpringBoot, Backend Development, or Docker**
-  - ⚡ Fun fact: I'm a huge fan of sci-fi movies and love to hike on weekends!
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/lucifer9707" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
