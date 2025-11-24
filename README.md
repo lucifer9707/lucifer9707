@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ARUN RAWAT
 ===================================================================================================================================
 
-Digital Craftsman (Developer/Problem Solver)
+Digital Craftsman (Developer / Problem Solver)
 ----------------------------------------------
 
 I'm a passionate software developer dedicated to crafting efficient and scalable solutions. I thrive on turning complex problems into simple, beautiful designs in code. I'm always learning, building, and collaborating on interesting projects.
