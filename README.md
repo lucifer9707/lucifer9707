@@ -33,15 +33,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 ---
 
----
 
----
-
----
-
----
-
----
 
 ## 🧩 Tech Arsenal
 
@@ -63,13 +55,6 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" title="Figma" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" alt="Photoshop" title="Photoshop" /></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" title="Linux" /></a>
-</p>
-
----
-
-## 🧰 More Skills
-
-<p align="center">
 <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="36" alt="Spring" title="Spring" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="36" alt="Docker" title="Docker" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" title="Git" /></a>
