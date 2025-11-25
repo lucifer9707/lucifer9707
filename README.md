@@ -5,7 +5,7 @@
 
 <!-- ⭐ PROFESSIONAL NAME BELOW WELCOME MESSAGE -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=600&color=00FFC8&center=true&vCenter=true&width=550&lines=ARUN+RAWAT;Full+Stack+Developer;Software+Engineer;Digital+Craftsman" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=700&color=00FFC8&center=true&vCenter=true&width=650&lines=ARUN+RAWAT;" />
 </h2>
 
 <p align="center">
