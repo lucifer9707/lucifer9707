@@ -92,17 +92,20 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 ## 📊 GitHub Stats
 
 <p align="center">
-<!-- Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
+  <!-- GitHub main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-<!-- Streak Stats (moved to vercel as heroku might fail) -->
-<img src="https://streak-stats.demolab.vercel.app/?user=lucifer9707&background=0d1117&stroke=ffffff&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <!-- GitHub streak stats -->
+  <img src="https://streak-stats.demolab.vercel.app/?user=lucifer9707&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
+
+---
+
 
