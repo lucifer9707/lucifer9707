@@ -1,7 +1,6 @@
 <!-- CYBERPUNK BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&color=00FFEA&center=true&vCenter=true&width=900&height=90&lines=🚀+ARUN+RAWAT;
-    Full-Stack+Developer+%7C+CyberSecurity+Learner;Hacker+Mindset+%7C+Problem+Solver;Welcome+to+My+Digital+Realm+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&color=00FFEA&center=true&vCenter=true&width=900&height=90&lines=🚀+ARUN+RAWAT;Full+Stack+Developer+%7C+CyberSecurity+Learner;Hacker+Mindset+%7C+Problem+Solver;Welcome+to+My+Digital+Realm+" />
 </p>
 
 <!-- GLITCH NAME -->
