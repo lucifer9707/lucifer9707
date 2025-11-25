@@ -59,19 +59,14 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 ## 🌐 Social Links
 
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/lucifer9707" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/github.gif" width="50" alt="GitHub" />
+  <a href="https://github.com/lucifer9707" style="margin-right: 60px;">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=glow&size=40" alt="GitHub" />
   </a>
-
-  <!-- Twitter / X -->
-  <a href="https://x.com/the_x_manARUN" style="margin-right: 50px;">
-    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/twitter.gif" width="50" alt="Twitter" />
+  <a href="https://x.com/the_x_manARUN" style="margin-right: 60px;">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&animation=pulse&size=40" alt="Twitter / X" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arunrawat9707">
-    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/linkedin.gif" width="50" alt="LinkedIn" />
+    <img src="https://www.readmecodegen.com/api-social-icon?name=linkedin&animation=glow&size=40" alt="LinkedIn" />
   </a>
 </p>
 
