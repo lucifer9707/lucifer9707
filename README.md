@@ -1,6 +1,6 @@
 <!-- 🔥 CYBERPUNK NEON BANNER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;ARUN+RAWAT" />
 </h1>
 
 <!-- ⭐ PROFESSIONAL NAME BELOW WELCOME MESSAGE -->
