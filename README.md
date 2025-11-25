@@ -1,11 +1,12 @@
 <!-- 🔥 CYBERPUNK NEON BANNER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;ARUN+RAWAT" />
+  <!-- Line 1: Welcome -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=0&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀" />
 </h1>
 
 <!-- ⭐ PROFESSIONAL NAME BELOW WELCOME MESSAGE -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=700&color=00FFC8&center=true&vCenter=true&width=650&lines=ARUN+RAWAT;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2000&pause=0&color=00FFC8&center=true&vCenter=true&width=650&lines=ARUN+RAWAT" />
 </h2>
 
 <p align="center">
