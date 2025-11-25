@@ -57,28 +57,6 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" title="Linux" /></a>
 </p>
 
-
-
-
----
-## 🌐 Social Links
-
-<p align="center">
-  <a href="https://github.com/lucifer9707" style="margin-right: 60px;">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=glow&size=40&color=00F0FF" alt="GitHub" />
-  </a>
-  <a href="https://x.com/the_x_manARUN" style="margin-right: 60px;">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=twitter&animation=pulse&size=40&color=00F0FF" alt="Twitter / X" />
-  </a>
-  <a href="https://www.linkedin.com/in/arunrawat9707">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&size=40&color=00F0FF" alt="LinkedIn" />
-  </a>
-</p>
-
-
-
-
-
 ---
 
 # 🏆 GitHub Trophies
