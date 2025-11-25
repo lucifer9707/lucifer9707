@@ -1,13 +1,18 @@
 <!-- 🔥 CYBERPUNK NEON BANNER -->
 <h1 align="center">
   <!-- Line 1: Welcome -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=0&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;&repeat=false" />
 </h1>
 
 <!-- ⭐ PROFESSIONAL NAME BELOW WELCOME MESSAGE -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2000&pause=0&color=00FFC8&center=true&vCenter=true&width=650&lines=ARUN+RAWAT" />
+  <!-- Line 2: Name -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=4000&pause=1000&color=00FFC8&center=true&vCenter=true&width=750&lines=ARUN+RAWAT;&repeat=false" />
 </h2>
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucifer9707&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
