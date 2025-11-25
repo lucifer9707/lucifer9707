@@ -18,6 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=lucifer9707&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/github/followers/lucifer9707?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</p>
+
+
 ---
 
 ## 🚀 Digital Craftsman (Developer / Problem Solver)
@@ -54,36 +59,40 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 ## 🌐 Social Links
 
-<p align="left">
-
-<a href="https://github.com/lucifer9707">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-</picture>
-</a>
-
-
-<a href="https://x.com/the_x_manARUN">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" />
-</picture>
-</a>
-
-<p align="right">
-<a href="https://www.linkedin.com/in/arunrawat9707">
-  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-</picture>
-</a>
-</p>
-
 <p align="center">
-<img src="https://img.shields.io/github/followers/lucifer9707?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <!-- GitHub -->
+  <a href="https://github.com/lucifer9707" style="margin-right: 50px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
+    </picture>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/the_x_manARUN" style="margin-right: 50px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/arunrawat9707">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
+    </picture>
+  </a>
 </p>
+
+<style>
+  p a img:hover {
+    filter: drop-shadow(0 0 15px #00ffff) drop-shadow(0 0 25px #00ffff);
+    transform: scale(1.2);
+  }
+</style>
+
+
 
 ---
 
