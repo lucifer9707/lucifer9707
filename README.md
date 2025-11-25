@@ -1,6 +1,16 @@
+<!-- 🔥 CYBERPUNK NEON BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/8QZQZ6R.gif" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=600&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;" />
 </h1>
+
+<!-- ⭐ PROFESSIONAL NAME BELOW WELCOME MESSAGE -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=600&color=00FFC8&center=true&vCenter=true&width=550&lines=ARUN+RAWAT;Full+Stack+Developer;Software+Engineer;Digital+Craftsman" />
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucifer9707&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
@@ -99,4 +109,3 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 ### 🧰 More Skills  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,docker,git,linux,mysql,html,css,js)]()
-
