@@ -1,7 +1,8 @@
 <!-- 🔥 CYBERPUNK NEON BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/8QZQZ6R.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;" />
