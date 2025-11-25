@@ -56,41 +56,25 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 </p>
 
 ---
-
 ## 🌐 Social Links
 
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/lucifer9707" style="margin-right: 50px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/github.gif" width="50" alt="GitHub" />
   </a>
 
-  <!-- Twitter -->
+  <!-- Twitter / X -->
   <a href="https://x.com/the_x_manARUN" style="margin-right: 50px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/twitter.gif" width="50" alt="Twitter" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arunrawat9707">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" style="transition: 0.3s; filter: drop-shadow(0 0 0 #00ffff);" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/abdelrahman-taher/animated-icons/linkedin.gif" width="50" alt="LinkedIn" />
   </a>
 </p>
 
-<style>
-  p a img:hover {
-    filter: drop-shadow(0 0 15px #00ffff) drop-shadow(0 0 25px #00ffff);
-    transform: scale(1.2);
-  }
-</style>
 
 
 
