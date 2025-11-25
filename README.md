@@ -1,9 +1,4 @@
 <!-- 🔥 CYBERPUNK NEON BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Cyberpunk Banner" />
-</p>
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=650&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;" />
 </h1>
@@ -29,7 +24,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 ## 🧩 Tech Arsenal
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
@@ -62,6 +57,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 </picture>
 </a>
 
+
 <a href="https://x.com/the_x_manARUN">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
@@ -69,16 +65,17 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 </picture>
 </a>
 
+<p align="right">
 <a href="https://www.linkedin.com/in/arunrawat9707">
+  
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
 </picture>
 </a>
-
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/github/followers/lucifer9707?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
 
@@ -94,7 +91,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
 </p>
 
