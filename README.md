@@ -70,19 +70,17 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=lucifer9707&show_icons=true&count_private=true&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- GitHub streak stats -->
-  <img src="https://streak-stats.demolab.vercel.app/?user=lucifer9707&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=lucifer9707&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-  <!-- Top languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=lucifer9707&langs_count=10&layout=compact&title_color=00eaff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
+
 
 ---
 
