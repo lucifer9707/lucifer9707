@@ -23,7 +23,7 @@
 </p>
 
 
------
+---
 
 ## 🚀 Digital Craftsman (Developer / Problem Solver)
 
@@ -65,7 +65,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
   <img src="https://github-profile-trophy.vercel.app/?username=lucifer9707&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
+-----
 
 ## 📊 GitHub Stats
 
