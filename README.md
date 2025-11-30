@@ -31,7 +31,7 @@ I'm a passionate software developer dedicated to crafting efficient and scalable
 I love transforming complex problems into clean, elegant code.  
 Constantly learning, building, breaking things, fixing things—**the cycle continues.**
 
----
+-+-
 
 
 
@@ -57,7 +57,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" title="Linux" /></a>
 </p>
 
----
+-+-
 
 # 🏆 GitHub Trophies
 
@@ -65,7 +65,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
   <img src="https://github-profile-trophy.vercel.app/?username=lucifer9707&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
------
+--+--
 
 ## 📊 GitHub Stats
 
