@@ -35,7 +35,7 @@ Constantly learning, building, breaking things, fixing things—**the cycle cont
 
 
 
-## 🧩 Tech Arsenal
+## 🧩 Tech Arsenal mine
 
 <p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML" title="HTML" /></a>
