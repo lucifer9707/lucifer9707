@@ -14,7 +14,7 @@
 
 
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=lucifer9707&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
 </p>
 
