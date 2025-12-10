@@ -1,4 +1,4 @@
-<!-- 🔥 CYBERPUNK NEON BANNER ---->
+<!-- 🔥 CYBERPUNK NEON BANNER -->
 
 <h1 align="center">
   <!-- Line 1: Welcome -->
