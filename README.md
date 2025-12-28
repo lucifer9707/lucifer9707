@@ -1,11 +1,11 @@
 <!-- 🔥 CYBERPUNK NEON BANNER LATEST -->
 <h1 align="center">
-  <!-- Line 1: Welcome -->
+  <!-- Line 1: WELCOME -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;&repeat=false" />
 </h1>
 
 <h2 align="center">
-  <!-- Line 2: Name  -->
+  <!-- Line 2: NAME  -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=ARUN+RAWAT;&repeat=false" />
 </h2>
 
