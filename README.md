@@ -1,4 +1,4 @@
-<!-- 🔥Cyber Phunk Banner-->
+<!-- 🔥Cyber Phunk Neon Banner-->
 <h1 align="center">
   <!-- Line 1: Welcome -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=▄▀▄▀▄▀+WELCOME+TO+MY+CYBER+SPACE+▄▀▄▀▄▀;&repeat=false" />
